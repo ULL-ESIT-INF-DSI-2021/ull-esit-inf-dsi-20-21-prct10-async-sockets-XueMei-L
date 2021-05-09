@@ -180,17 +180,17 @@ El proceso es lo siguiente:
 
 **Cuando ejecuta el servidor:** Se queda esperando que algún cliente que se conecta
 
-![image-20210510005354277](C:\Users\linyouzi\AppData\Roaming\Typora\typora-user-images\image-20210510005354277.png)
+![image-20210510005354277](imagenes/image-20210510005354277.png)
 
 **Cuando un cliente quiere añadir una nota nueva**: el servidor responde que su acción haya realizado correctamente o no.
 
-![image-20210510011338743](C:\Users\linyouzi\Desktop\image-20210510011338743.png)
+![image-20210510011338743](imagenes/image-20210510011338743.png)
 
 
 
 Como resultado, vamos a probar con los paquetes ` mocha` :
 
-![image-20210510005248600](C:\Users\linyouzi\Desktop\image-20210510005248600.png)
+![image-20210510005248600](imagenes/image-20210510005248600.png)
 
 
 
